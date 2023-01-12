@@ -1,0 +1,34 @@
+$ npx create-next-app@latest
+✔ What is your project named? … nextjs_vercel_test
+✔ Would you like to use TypeScript with this project? … No / Yes
+✔ Would you like to use ESLint with this project? … No / Yes
+Creating a new Next.js app in /Users/r9/dev/src/github.com/rightgo09/nextjs_vercel_test.
+
+Using npm.
+
+Installing dependencies:
+- react
+- react-dom
+- next
+- @next/font
+- typescript
+- @types/react
+- @types/node
+- @types/react-dom
+- eslint
+- eslint-config-next
+
+
+added 269 packages, and audited 270 packages in 18s
+
+102 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Initializing project with template: default 
+
+Initialized a git repository.
+
+Success! Created nextjs_vercel_test at /Users/r9/dev/src/github.com/rightgo09/nextjs_vercel_test
+
